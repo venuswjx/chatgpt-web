@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://www.venushome.top:40000/1678583252814.jpg',
+      avatar: 'https://www./1678583252814.jpg',
       name: 'VenusWu',
       description: 'Star On <a href="https://github.com/venuswjx/chatgpt-web" class="text-blue-500" target="_blank" >Github</a>',
     },
